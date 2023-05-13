@@ -1,0 +1,2 @@
+# managecode
+managecode for scores
